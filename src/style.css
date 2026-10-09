@@ -2,6 +2,8 @@
 @import "tailwindcss-animated";
 @import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Condensed:ital,wght@0,400..700;1,400..700&display=swap');
 
+
+
 body {
-    background-color: oklch(15.3% 0.006 107.1);
+    background-color: #202020;
 }
