@@ -4,6 +4,9 @@
         <div class="flex">
             <div class="px-2"><a href="https://github.com/guiikzx">github.</a></div>
         </div>
+        <div>
+            <a href="#">projetos.</a>
+        </div>
     </div>
 
     <div class="font-[Libre_Caslon_Condensed] justify-content text-center my-70 mx-70 text-[#83a598] items-center">
