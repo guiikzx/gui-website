@@ -7,13 +7,10 @@
     </div>
 
     <div class="font-[Libre_Caslon_Condensed] justify-content text-center my-70 mx-70 text-[#83a598] items-center">
-        <div class="text-5xl mb-5 font-bold animate-fade-up animate-once animate-duration-[900ms] animate-delay-500 animate-ease-in-out">Olá, me chamo Guilherme!</div>
-        <div class="text-2xl animate-fade-up animate-once animate-duration-[900ms] animate-delay-1000 animate-ease-in-out">
-            <p>Um cara de 20 anos que diz ser desenvolvedor</p>
-            <p>e entusiasta do open-source. <i class="animate-pulse text-[#fabd2f]">Ou algo assim...</i></p>
-        </div>
-        <div class="mt-9 h-40 w-40 flex justify-content mx-145 animate-fade-up animate-once animate-duration-[900ms] animate-delay-[1700ms] animate-ease-in-out">
-            <img src="../assets/konata.gif" alt="oi!">
+        <div class="text-5xl mb-5 font-bold">Hi! my name is Guilherme!</div>
+        <div class="text-2xl">
+            <p>A 20 year old guy who says he's a developer,</p>
+            <p>open-source enthusiast and who loves low-level programming. <i class="animate-pulse text-[#fabd2f]">Or something like that...</i></p>
         </div>
     </div>
 </template>
